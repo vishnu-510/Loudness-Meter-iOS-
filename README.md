@@ -30,6 +30,5 @@ An iOS audio analysis app built using **SwiftUI** and **AVFoundation** that anal
 ## 📌 Why this project?
 This project demonstrates real-time audio signal analysis concepts and serves as a foundation for DSP-based applications and audio plugins.
 
-## 👨‍💻 Author
-**Vishnu Kumar**  
-Aspiring Audio & iOS Developer
+## Screenshot
+
