@@ -31,5 +31,7 @@ An iOS audio analysis app built using **SwiftUI** and **AVFoundation** that anal
 This project demonstrates real-time audio signal analysis concepts and serves as a foundation for DSP-based applications and audio plugins.
 
 ## Screenshot
-![Loudness meter UI](loudnesmeter.png)
 
+<p align="center">
+  <img src="./loudnesmeter.png" width="220"/>
+</p>
